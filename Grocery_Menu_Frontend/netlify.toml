@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"
+  publish="D:\Intial_Projects\Grocery_Menu_Frontend\src\App.js/build"
+  base = "D:\Intial_Projects\Grocery_Menu_Frontend\src\App.js"
