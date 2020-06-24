@@ -1,6 +1,7 @@
 [build]
   command = "npm run build"
   base = "Grocery_Menu_Frontend/"
+  publish = "Grocery_Menu_Frontend/build/"
   [context.deploy-preview]
 
   publish = "Grocery_Menu_Frontend/public/"
