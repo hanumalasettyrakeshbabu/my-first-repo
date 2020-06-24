@@ -28,7 +28,7 @@ class App extends React.Component {
                   <Link to="/simpleimageslider">Image-Slider</Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link href="/todolist">Todo-Lists</Nav.Link>
+                  <Link to="/todolist">Todo-Lists</Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link href="/menuprototype">Menu</Nav.Link>
@@ -41,11 +41,9 @@ class App extends React.Component {
           
             <Switch>
               <Route exact path="/" component={Home}/>
-              
-              
-              <Route  path="/simpleimageslider" component={Simplecounter}></Route>
+              <Route  exact path="/simpleimageslider" component={Simplecounter}></Route>
               <Route  exact path="/todolist" component={Grocery}></Route>
-              <Route  path="/menuprototype" component={Menu}></Route>
+              <Route  exact path="/menuprototype" component={Menu}></Route>
             </Switch>
           
         </HashRouter>
