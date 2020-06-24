@@ -44,7 +44,7 @@ class App extends React.Component {
               
               
               <Route  path="/simpleimageslider" component={Simplecounter}></Route>
-              <Route  path="/todolist" component={Grocery}></Route>
+              <Route  exact path="/todolist" render={ (routerProps) => < Grocery routerProps={routerProps} />}></Route>
               <Route  path="/menuprototype" component={Menu}></Route>
             </Switch>
           </Router>
