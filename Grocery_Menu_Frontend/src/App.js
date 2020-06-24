@@ -1,4 +1,6 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
+
 import './App.css';
 import Simplecounter from "./components/simplecounter"
 import Menu from "./components/menu"
@@ -7,6 +9,7 @@ import { Nav, Navbar } from "react-bootstrap"
 import { BrowserRouter as Router, Route, NavLink, Switch, Link } from "react-router-dom"
 import Home from "./components/Home"
 class App extends React.Component {
+  
   render() {
     return (
       <React.Fragment>
