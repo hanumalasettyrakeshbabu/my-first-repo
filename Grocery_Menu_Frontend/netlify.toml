@@ -8,3 +8,6 @@
   [[redirects]]
   from = "/"
   to = "https://5ef379b7994fee6c2cb9b34f--elastic-jepsen-79d118.netlify.app/"
+
+from = "/simpleimageslider"
+to = "https://hanumalasettyrakeshbabu.github.io/simpleimageslider"
