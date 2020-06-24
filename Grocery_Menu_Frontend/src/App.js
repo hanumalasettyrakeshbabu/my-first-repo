@@ -6,7 +6,7 @@ import Simplecounter from "./components/simplecounter"
 import Menu from "./components/menu"
 import Grocery from "./grocery_menu"
 import { Nav, Navbar } from "react-bootstrap"
-import { BrowserRouter as Router, Route, NavLink, Switch, Link } from "react-router-dom"
+import {HashRouter, BrowserRouter as Router, Route, NavLink, Switch, Link } from "react-router-dom"
 import Home from "./components/Home"
 class App extends React.Component {
   
@@ -17,15 +17,15 @@ class App extends React.Component {
           @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
       </style>
         <div className="App">
-
-          <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+        <HashRouter basename="/">
+        <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
             <Navbar.Brand href="/" >Home</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
 
               <Nav className="ml-auto" >
                 <Nav.Item>
-                  <Nav.Link href="/simpleimageslider">Image-Slider</Nav.Link>
+                  <Link to="/simpleimageslider">Image-Slider</Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link href="/todolist">Todo-Lists</Nav.Link>
@@ -38,16 +38,18 @@ class App extends React.Component {
             </Navbar.Collapse>
           </Navbar>
 
-          <Router>
+          
             <Switch>
-              <Route exact path="/" render={ (routerProps) => < Home routerProps={routerProps} />}/>
+              <Route exact path="/" component={Home}/>
               
               
               <Route  path="/simpleimageslider" component={Simplecounter}></Route>
-              <Route  exact path="/todolist" render={ (routerProps) => < Grocery routerProps={routerProps} />}></Route>
+              <Route  exact path="/todolist" component={Grocery}></Route>
               <Route  path="/menuprototype" component={Menu}></Route>
             </Switch>
-          </Router>
+          
+        </HashRouter>
+          
         </div>
         <footer className="footers">
           <div className="w-50 p-2 mx-auto mb-1 d-inline-block">
