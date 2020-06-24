@@ -3,4 +3,4 @@
   base = "Grocery_Menu_Frontend/"
   [context.deploy-preview]
 
-  publish = "dist/"
+  publish = "Grocery_Menu_Frontend/public/"
