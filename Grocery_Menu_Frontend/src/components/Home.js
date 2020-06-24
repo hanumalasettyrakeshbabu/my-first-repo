@@ -24,7 +24,7 @@ export default class Home extends Component {
               </Card.Body>
             </Card>
             <Card className="card-deck-1 bg-info h4" style={{ boxShadow: "0 4px 8px 0 rgba(0,0,0,0.2)" }}>
-              <Card.Img variant="top" src={pc3} width="200" height="200"></Card.Img>
+              <Card.Img variant="top" src={pc3} width="200" height="201"></Card.Img>
               <Card.Body>
                 <Link to="/menuprototype" style={{ textDecoration: "None" }}><span style={{ color: "black" }} >Menu-Prototype</span></Link>
               </Card.Body>
