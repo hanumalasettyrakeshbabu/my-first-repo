@@ -37,10 +37,10 @@ class App extends React.Component {
 
           <Router>
             <Switch>
-              <Route exact path="/" component={Home}></Route>
-              <Route exact path="/simpleimageslider" component={Simplecounter}></Route>
-              <Route exact path="/todolist" component={Grocery}></Route>
-              <Route exact path="/menuprototype" component={Menu}></Route>
+              <Route  path="/" component={Home}></Route>
+              <Route  path="/simpleimageslider" component={Simplecounter}></Route>
+              <Route  path="/todolist" component={Grocery}></Route>
+              <Route  path="/menuprototype" component={Menu}></Route>
             </Switch>
           </Router>
         </div>
