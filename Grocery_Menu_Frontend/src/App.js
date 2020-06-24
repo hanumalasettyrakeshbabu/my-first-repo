@@ -25,7 +25,7 @@ class App extends React.Component {
                   <Nav.Link href="/simpleimageslider">Image-Slider</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link href="/todolist">Todo-List</Nav.Link>
+                  <Nav.Link href="/todolist">Todo-Lists</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link href="/menuprototype">Menu</Nav.Link>
