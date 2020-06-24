@@ -37,7 +37,7 @@ class App extends React.Component {
 
           <Router>
             <Switch>
-              <Route  path="/" render={ (routerProps) => < Home routerProps={routerProps} />}/>
+              <Route exact path="/" render={ (routerProps) => < Home routerProps={routerProps} />}/>
               
               
               <Route  path="/simpleimageslider" component={Simplecounter}></Route>
