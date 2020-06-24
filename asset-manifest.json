@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/css/main.00f701f0.chunk.css",
-    "main.js": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/main.b2723e9b.chunk.js",
-    "main.js.map": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/main.b2723e9b.chunk.js.map",
-    "runtime-main.js": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/runtime-main.151dd39b.js",
-    "runtime-main.js.map": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/runtime-main.151dd39b.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b6720961.chunk.js": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/2.b6720961.chunk.js",
-    "static/js/2.b6720961.chunk.js.map": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/2.b6720961.chunk.js.map",
-    "index.html": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/index.html",
-    "precache-manifest.f325f123ca5fead701133098d699d600.js": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/precache-manifest.f325f123ca5fead701133098d699d600.js",
-    "service-worker.js": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.00f701f0.chunk.css.map": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/css/main.00f701f0.chunk.css.map",
-    "static/js/2.b6720961.chunk.js.LICENSE.txt": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/js/2.b6720961.chunk.js.LICENSE.txt",
-    "static/media/Screenshot (53).png": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/media/Screenshot (53).96513d2f.png",
-    "static/media/Screenshot (54).png": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/media/Screenshot (54).b8a094a6.png",
-    "static/media/Screenshot (55).png": "/hanumalasettyrakeshbabu/hanumalasettyrakeshbabu.github.io/static/media/Screenshot (55).9e79665f.png"
+    "main.css": "/hanumalasettyrakeshbabu.github.io/static/css/main.00f701f0.chunk.css",
+    "main.js": "/hanumalasettyrakeshbabu.github.io/static/js/main.da12113b.chunk.js",
+    "main.js.map": "/hanumalasettyrakeshbabu.github.io/static/js/main.da12113b.chunk.js.map",
+    "runtime-main.js": "/hanumalasettyrakeshbabu.github.io/static/js/runtime-main.174991e6.js",
+    "runtime-main.js.map": "/hanumalasettyrakeshbabu.github.io/static/js/runtime-main.174991e6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/hanumalasettyrakeshbabu.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b6720961.chunk.js": "/hanumalasettyrakeshbabu.github.io/static/js/2.b6720961.chunk.js",
+    "static/js/2.b6720961.chunk.js.map": "/hanumalasettyrakeshbabu.github.io/static/js/2.b6720961.chunk.js.map",
+    "index.html": "/hanumalasettyrakeshbabu.github.io/index.html",
+    "precache-manifest.bad1ec044572f843410e4c65efc40dc8.js": "/hanumalasettyrakeshbabu.github.io/precache-manifest.bad1ec044572f843410e4c65efc40dc8.js",
+    "service-worker.js": "/hanumalasettyrakeshbabu.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/hanumalasettyrakeshbabu.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.00f701f0.chunk.css.map": "/hanumalasettyrakeshbabu.github.io/static/css/main.00f701f0.chunk.css.map",
+    "static/js/2.b6720961.chunk.js.LICENSE.txt": "/hanumalasettyrakeshbabu.github.io/static/js/2.b6720961.chunk.js.LICENSE.txt",
+    "static/media/Screenshot (53).png": "/hanumalasettyrakeshbabu.github.io/static/media/Screenshot (53).96513d2f.png",
+    "static/media/Screenshot (54).png": "/hanumalasettyrakeshbabu.github.io/static/media/Screenshot (54).b8a094a6.png",
+    "static/media/Screenshot (55).png": "/hanumalasettyrakeshbabu.github.io/static/media/Screenshot (55).9e79665f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.151dd39b.js",
+    "static/js/runtime-main.174991e6.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.b6720961.chunk.js",
     "static/css/main.00f701f0.chunk.css",
-    "static/js/main.b2723e9b.chunk.js"
+    "static/js/main.da12113b.chunk.js"
   ]
 }
