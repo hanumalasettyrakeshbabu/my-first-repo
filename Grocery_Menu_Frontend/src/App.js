@@ -31,7 +31,8 @@ class App extends React.Component {
                   <Link to="/todolist">Todo-Lists</Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link href="/menuprototype">Menu</Nav.Link>
+                <Link to="/menuprototype">Menu</Link>
+                  
                 </Nav.Item>
 
               </Nav>
