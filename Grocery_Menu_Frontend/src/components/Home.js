@@ -11,7 +11,7 @@ export default class Home extends Component {
       <div>
         <div className="container">
           <CardDeck className="p-3 mt-5" >
-            <Card className="card-deck-1 bg-info h4" style={{ boxShadow: "0 4px 8px 0 rgba(0,0,0,0.2)" }}>
+            <Card className="card-deck-1 bg-info h4 col-xs-12" style={{ boxShadow: "0 4px 8px 0 rgba(0,0,0,0.2)" }}>
               <Card.Img variant="top" src={pc1} alt="Pic-1" width="200" height="200"></Card.Img>
               <Card.Body>
                 <Link to="/simpleimageslider" style={{ textDecoration: "None" }}><span className="spanned" style={{ color: "black" }}>Simple-Image-Slider</span></Link>
