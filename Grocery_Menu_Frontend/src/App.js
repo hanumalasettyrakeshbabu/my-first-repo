@@ -19,7 +19,9 @@ class App extends React.Component {
         <div className="App">
         <HashRouter basename="/">
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-            <Navbar.Brand href="/" >Home</Navbar.Brand>
+            <Navbar.Brand href="/" >
+            <Link to = "/">Home</Link>
+            </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
 
