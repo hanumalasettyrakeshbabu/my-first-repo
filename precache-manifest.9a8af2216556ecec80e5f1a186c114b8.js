@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ccb5e42477a7a832119a9be91a825c1",
+    "revision": "e1d34369fa90764b63e44b4a72c4a7e3",
     "url": "/my-first-repo/index.html"
   },
   {
-    "revision": "9c1c2b256d517f5d6d6a",
+    "revision": "3e6c34f7ca4d9e6b006e",
     "url": "/my-first-repo/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "7d684ccd7159ef95f2d2",
+    "revision": "ef0f74764e1229a30b86",
     "url": "/my-first-repo/static/css/main.00f701f0.chunk.css"
   },
   {
-    "revision": "9c1c2b256d517f5d6d6a",
-    "url": "/my-first-repo/static/js/2.83cc3848.chunk.js"
+    "revision": "3e6c34f7ca4d9e6b006e",
+    "url": "/my-first-repo/static/js/2.7daaad1a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/my-first-repo/static/js/2.83cc3848.chunk.js.LICENSE.txt"
+    "url": "/my-first-repo/static/js/2.7daaad1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d684ccd7159ef95f2d2",
-    "url": "/my-first-repo/static/js/main.8dbac1e3.chunk.js"
+    "revision": "ef0f74764e1229a30b86",
+    "url": "/my-first-repo/static/js/main.8972c5cb.chunk.js"
   },
   {
     "revision": "23d81e525e2982d65234",

@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-first-repo/static/css/main.00f701f0.chunk.css",
-    "main.js": "/my-first-repo/static/js/main.8dbac1e3.chunk.js",
-    "main.js.map": "/my-first-repo/static/js/main.8dbac1e3.chunk.js.map",
+    "main.js": "/my-first-repo/static/js/main.8972c5cb.chunk.js",
+    "main.js.map": "/my-first-repo/static/js/main.8972c5cb.chunk.js.map",
     "runtime-main.js": "/my-first-repo/static/js/runtime-main.de14c7f2.js",
     "runtime-main.js.map": "/my-first-repo/static/js/runtime-main.de14c7f2.js.map",
     "static/css/2.af3c1da9.chunk.css": "/my-first-repo/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.83cc3848.chunk.js": "/my-first-repo/static/js/2.83cc3848.chunk.js",
-    "static/js/2.83cc3848.chunk.js.map": "/my-first-repo/static/js/2.83cc3848.chunk.js.map",
+    "static/js/2.7daaad1a.chunk.js": "/my-first-repo/static/js/2.7daaad1a.chunk.js",
+    "static/js/2.7daaad1a.chunk.js.map": "/my-first-repo/static/js/2.7daaad1a.chunk.js.map",
     "index.html": "/my-first-repo/index.html",
-    "precache-manifest.dc23d680c959a1e5de5b6361f981cd28.js": "/my-first-repo/precache-manifest.dc23d680c959a1e5de5b6361f981cd28.js",
+    "precache-manifest.9a8af2216556ecec80e5f1a186c114b8.js": "/my-first-repo/precache-manifest.9a8af2216556ecec80e5f1a186c114b8.js",
     "service-worker.js": "/my-first-repo/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/my-first-repo/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.00f701f0.chunk.css.map": "/my-first-repo/static/css/main.00f701f0.chunk.css.map",
-    "static/js/2.83cc3848.chunk.js.LICENSE.txt": "/my-first-repo/static/js/2.83cc3848.chunk.js.LICENSE.txt",
+    "static/js/2.7daaad1a.chunk.js.LICENSE.txt": "/my-first-repo/static/js/2.7daaad1a.chunk.js.LICENSE.txt",
     "static/media/Screenshot (53).png": "/my-first-repo/static/media/Screenshot (53).96513d2f.png",
     "static/media/Screenshot (54).png": "/my-first-repo/static/media/Screenshot (54).b8a094a6.png",
     "static/media/Screenshot (55).png": "/my-first-repo/static/media/Screenshot (55).9e79665f.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.de14c7f2.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.83cc3848.chunk.js",
+    "static/js/2.7daaad1a.chunk.js",
     "static/css/main.00f701f0.chunk.css",
-    "static/js/main.8dbac1e3.chunk.js"
+    "static/js/main.8972c5cb.chunk.js"
   ]
 }
